@@ -1,13 +1,44 @@
 <!DOCTYPE html>
-<html lang="ar">
+<html lang="en">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>موقع شركتي</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>TrainingCorp - شركة وهمية</title>
+  <style>
+    body {
+      background-color: #f4f4f4;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #333;
+    }
+    .info {
+      background: #fff;
+      padding: 20px;
+      margin: 0 auto;
+      border-radius: 12px;
+      max-width: 500px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    .info p {
+      margin: 10px 0;
+      color: #555;
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+  </style>
 </head>
 <body>
-    <h1>أهلاً بك في موقع شركتي!</h1>
-    <p>هذا موقع تعريفي بسيط على GitHub Pages.</p>
+  <div class="info">
+    <h1>Welcome to TrainingCorp</h1>
+    <p>📧 Contact us: <a href="mailto:contact@trainingcorp.fake">contact@trainingcorp.fake</a></p>
+    <p>💻 Developer: <a href="mailto:dev@trainingcorp.fake">dev@trainingcorp.fake</a></p>
+    <p>🔐 VPN Access: <a href="http://vpn.trainingcorp.fake" target="_blank">vpn.trainingcorp.fake</a></p>
+    <p>📁 GitHub: <a href="https://github.com/trainingcorp" target="_blank">github.com/trainingcorp</a></p>
+  </div>
 </body>
 </html>
-# trainingcorp-site
